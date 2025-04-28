@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working as a software developer intern at Kubenine.<br>I'm very passionate and interested in contributing to open source projects.<br>
+- Currently working as a software developer intern at Kubenine.
+- Playing around with BTC lately.
+- Reach me at chitluridevicharan@gmail.com
 
 
 ## 🌐 Socials:
